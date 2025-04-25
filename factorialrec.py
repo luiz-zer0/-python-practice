@@ -4,4 +4,4 @@ def factorial_recursive(n):
     else:
         return n * factorial_recursive(n - 1)
     
-print(factorial_recursive(4))    
+print(factorial_recursive(4))
